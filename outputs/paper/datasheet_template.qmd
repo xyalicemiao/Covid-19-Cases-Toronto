@@ -1,13 +1,12 @@
 ---
-title: "Datasheet for 'A dataset'"
-subtitle: "My subtitle if needed"
+title: "Toronto Covid Cases Statistics and Analysis"
+subtitle: "A Case Studie with Graghs and Tables"
 author: 
-  - First author
-  - Another author
+  - "Xiaoyu Miao"
 thanks: "Code and data are available at: LINK."
-date: "`r Sys.time()`"
-date-format: "D MMMM YYYY"
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+date: "`r Sys.time(24-01-2024)`"
+date-format: "DD MM YYYY"
+abstract: "This dataset is about covid-19 cases in Toronto published by Toronto Public Health, and it’s classified by age, gender, neighborhood, covid status, etc. In this data analysis, we find out that people aged 20-29 in Toronto are the group with the highest reported number of Covid-19 cases, whereas people aged 90 and above are the group with the lowest reported number of covid-19 cases. We also find out that covid cases are almost equally distributed in neibourhoods around the city."
 format: pdf
 number-sections: true
 bibliography: references.bib

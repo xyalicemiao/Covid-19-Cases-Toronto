@@ -17,3 +17,14 @@ library(tidyverse)
 
 
 
+# Load necessary libraries
+library(lubridate)
+
+# Set parameters for the simulation
+num_records <- 1000  # Number of records to simulate
+
+# Simulate data
+set.seed(123)  # Setting seed for reproducibility
+
+
+
